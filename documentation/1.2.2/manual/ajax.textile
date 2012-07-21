@@ -45,3 +45,5 @@ bc. $.post(listAction, function(data) {
 p(note). **考察を続けます**
  
 %(next)"国際化":i18n% を取り扱ってみましょう。
+
+testtest
